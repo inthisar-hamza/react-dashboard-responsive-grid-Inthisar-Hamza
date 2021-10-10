@@ -3,7 +3,7 @@ import { render } from "react-dom";
 
 import { withSize } from "react-sizeme";
 import CardComponent from "../components/CardComponent";
-import "./Co.css";
+import "./Components.css";
 
 /* 
 const style = {

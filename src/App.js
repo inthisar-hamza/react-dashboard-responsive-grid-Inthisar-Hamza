@@ -13,8 +13,6 @@ export default function App() {
 
   return (
     <Router>
-      <div>
-        {/* 
       <div className="App">
         <h2>Hello! from Inthisar-Hamza </h2>
         <h3>React Routing and Reusable Components with Responsive Grid</h3>
@@ -36,7 +34,7 @@ export default function App() {
               <Link to="/widgets">Widgets</Link>
             </li>
           </ul>
-        </nav>/* */}
+        </nav>
 
         <Switch>
           <Route path="/components">
